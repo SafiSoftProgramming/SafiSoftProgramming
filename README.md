@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Safi Zidan (Mostafa) 
+- 👋 Hi, I’m Mostafa Elsafi (Safi) 
 - 👀 I’m interested in Desktop applications , Mobile applications , Web applications , Arduino projects and more ....
 - 🌱 I’m currently learning Flutter software development .
 - 💞️ I’m looking to collaborate on any fun projects .
