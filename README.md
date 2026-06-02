@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Mostafa Elsafi (Safi) 
-- 👀 I’m interested in Desktop applications , Mobile applications , Web applications , Arduino projects and more ....
-- 🌱 I’m currently learning Flutter software development .
-- 💞️ I’m looking to collaborate on any fun projects .
-- 📫 How to reach me ... you can sent me email at any time on safisoft.programmer@gmail.com .
+🚀 SafiSoft is an innovation-driven technology company.
+💡 We develop software, embedded systems, IoT solutions, robotics, and health-tech products.
+🤖 Our expertise spans mobile applications, artificial intelligence, connected devices, automation systems, and digital fabrication technologies.
+🛠️ We transform ideas into real-world products by combining software, electronics, and innovation.
+🌍 Our mission is to create accessible technologies that improve everyday life and deliver global impact.
+📫 Contact: [safisoft.programmer@gmail.com](mailto:safisoft.programmer@gmail.com)
 
 <!---
 SafiSoftProgramming/SafiSoftProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
