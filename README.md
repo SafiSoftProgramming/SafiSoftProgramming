@@ -2,7 +2,7 @@
 
 💡 We develop software, embedded systems, IoT solutions, robotics, and health-tech products.
 
-🤖 Our expertise spans mobile applications, artificial intelligence, connected devices, automation systems, and digital fabrication technologies.
+🤖 Our expertise spans mobile applications, AI, connected devices, automation systems, and digital fabrication technologies.
 
 🛠️ We transform ideas into real-world products by combining software, electronics, and innovation.
 
